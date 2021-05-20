@@ -1,4 +1,4 @@
-# ethabi
+# vapabi
 
 [![Build Status][travis-image]][travis-url][![Build coverage][coveralls-image]][coveralls-url]
 
